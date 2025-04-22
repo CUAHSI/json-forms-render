@@ -1,7 +1,7 @@
 <template>
   <v-app class="bg-grey-lighten-4">
     <v-container>
-      <div class="text-h5 text-center">Warning: Large Schemas takes ~30+ seconds to render!</div>
+      <div class="text-h5 text-center">Rendered schema is below</div>
 
       <v-card class="my-5">
         <v-card-title
